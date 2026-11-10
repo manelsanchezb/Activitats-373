@@ -31,9 +31,14 @@
 
 .hero button{
     color: white;
-    background-color : orange;
-    border :;
-    border-radius: ;
-    padding: ;
+    background-color : orangered;
+    border : orangered;
+    border-radius: 1px; /*Redondear el boton*/
+    padding: 10px; /*Ampliar el boton*/
 }
 
+
+.index button{
+    display: flex;
+    justify-content: flex-end;
+}
