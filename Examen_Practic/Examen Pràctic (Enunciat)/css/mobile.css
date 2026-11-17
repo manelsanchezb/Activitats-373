@@ -1,0 +1,13 @@
+:root{
+    --colorPrimari: #1778A5;
+    --colorSecundari: #ffffff;
+    --colorHover: #1778A5;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estils per a dispositius mòbils */
